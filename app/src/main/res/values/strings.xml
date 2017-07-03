@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AIDLTest</string>
+    <string name="open_second_activity">打开第二个Activity</string>
+    <string name="getbooklist">获取学生列表</string>
+    <string name="addStudent">添加学生</string>
 </resources>
